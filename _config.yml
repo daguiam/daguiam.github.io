@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ThisBePage
+title: Diogo E. Aguiam
 email: diogoaguiam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
@@ -28,6 +28,7 @@ dribbble_username:
 twitter_username: diogoaguiam
 github_username:  daguiam
 linkedin_username:  diogoaguiam
+gravatar_image: https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200
 
 # Build settings
 markdown: kramdown
@@ -37,7 +38,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
 
 minima:
   date_format: "%Y.%m.%d" #%b %-d, %Y"

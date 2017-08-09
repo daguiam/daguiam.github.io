@@ -1,39 +1,12 @@
 ---
 layout: page
-#title: daguiam
-permalink: 
+title: About
+permalink: /about/
 ---
 
-![me]({{ site.gravatar_image }})
+Quick summary
+---
 
-
-## About me
-
-**Known as:** Diogo Elói Aguiam
-
-**Spawn date:** 1990 
-
-**Spawn location:** Portugal
-
-
-Find me at:
-
-[ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
-
-[Google Scholar](https://scholar.google.pt/citations?user=GQKhhkMAAAAJ&hl=en)
-
-[Twitter @diogoaguiam](https://twitter.com/diogoaguiam)
-
-[LinkedIn](https://www.linkedin.com/in/diogoaguiam/)
-
-
-
-
-If you care to know more: [LinkedIn](https://www.linkedin.com/in/diogoaguiam/), [Twitter](https://twitter.com/diogoaguiam), [ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
-
-
-
-## Quick summary
 I am an electronics engineer currently finishing my PhD in [Plasma Science and Engineering](https://www.ipfn.tecnico.ulisboa.pt/education/applause).
 
 I love projects where I get to develop a new system from scratch.
@@ -49,6 +22,10 @@ I'm an advocate of [open science](https://en.wikipedia.org/wiki/Open_science).
 You don't know everything. Mistakes will be made and you will only get so far by shutting yourself off from other people. Share your data, share your methods, share your codes.
 
 
+> "if I have seen further, it is by standing on the shoulders of giants.", [Isaac Newton](http://digitallibrary.hsp.org/index.php/Detail/Object/Show/object_id/9285)
+
+
+If you care to know more: [LinkedIn](https://www.linkedin.com/in/diogoaguiam/), [Twitter](https://twitter.com/diogoaguiam), [ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
 
 
 ---
@@ -80,9 +57,6 @@ You don't know everything. Mistakes will be made and you will only get so far by
 
 ---
 
-
-
-
 ### Research
 Check out my research
 
@@ -91,22 +65,3 @@ Repository at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/hom
 [ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
 
 [Google Scholar](https://scholar.google.pt/citations?user=GQKhhkMAAAAJ&hl=en)
-
-
-
-
-
-
-
-
-<div id="wrapper" style="  display: flex;">
-  <div id="left" style="float:left">
-       <a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/{{ site.twitter_username }}">Tweets by diogoaguiam</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
-    
-  
-  </div>    
-  <div id="right" style="float:right">
-    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-    <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/diogoaguiam" data-format="inline" data-related="false"></script>
-  </div>
-</div>
