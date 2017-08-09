@@ -34,14 +34,21 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+
 minima:
   date_format: "%Y.%m.%d" #%b %-d, %Y"
 
+show_drafts: false
+
 defaults:
--
-  scope:
+- scope:
     path: "" # an empty string here means all files in the project
     type: "posts" # previously `post` in Jekyll 2.2.
   values:
     layout: "default"
     category: "post"
+- scope:
+    path: "images"
+  values:
+    image: true
