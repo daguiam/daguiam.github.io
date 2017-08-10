@@ -7,6 +7,19 @@ permalink:
 ![me]({{ site.gravatar_image }})
 
 
+
+
+<div id="wrapper" style="  display: flex;">
+  <div id="left" style="float:left">
+
+
+  </div>    
+  <div id="right" style="float:right">
+
+  </div>
+</div>
+
+
 ## About me
 
 **Known as:** Diogo Elói Aguiam
