@@ -4,33 +4,21 @@ layout: page
 permalink: 
 ---
 
-![me]({{ site.gravatar_image }})
-
 
 
 
 <div id="wrapper" style="display: flex;">
-  <div id="left" style="float:left">
+  <div id="left" style="float:center">
    <img src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200" alt="me">
   </div>    
-  <div id="right" style="float:right">
-    <h2 id="about-me">About me</h2>
-    <p><strong>Known as:</strong> Diogo Elói Aguiam</p>
-    <p><strong>Spawn date:</strong> 1990</p>
-    <p><strong>Spawn location:</strong> Portugal</p>
-    <p>Find me at:</p>
-    <p><a href="https://www.researchgate.net/profile/Diogo_Aguiam">ResearchGate</a></p>
-    <p><a href="https://scholar.google.pt/citations?user=GQKhhkMAAAAJ&amp;hl=en">Google Scholar</a></p>
-    <p><a href="https://twitter.com/diogoaguiam">Twitter @diogoaguiam</a></p>
-    <p><a href="https://www.linkedin.com/in/diogoaguiam/">LinkedIn</a></p>
-  </div>
+
 </div>
 
 
 ## About me
 
 **Known as:** Diogo Elói Aguiam
-**Spawn:** Portugal, 1990
+**Spawned:** Portugal, 1990
 
 Find me at:
 
