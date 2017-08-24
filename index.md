@@ -4,15 +4,13 @@ layout: page
 permalink: 
 ---
 
-![me]({{ site.gravatar_image }})
-
-
-
-
 <div id="wrapper" style="display: flex;">
   <div id="left" style="float:left">
    <img src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200" alt="me">
   </div>    
+  <div id="left" style="float:left">
+  </div>    
+  
   <div id="right" style="float:right">
     <h2 id="about-me">About me</h2>
     <p><strong>Known as:</strong> Diogo Elói Aguiam</p>
