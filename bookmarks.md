@@ -57,7 +57,7 @@ permalink: /bookmarks
 Convolutional networks
 <http://cs231n.github.io/convolutional-networks/>
 
-
+<http://www.asimovinstitute.org/neural-network-zoo/>
 
 # Engineering
 
