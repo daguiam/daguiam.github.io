@@ -70,6 +70,6 @@ Convolutional networks
 
 # Electronics
 
-(https://www.embeddedrelated.com/showarticle/629.php)
+<https://www.embeddedrelated.com/showarticle/629.php>
 
-(https://www.embeddedrelated.com/showarticle/195.php)
+<https://www.embeddedrelated.com/showarticle/195.php>
