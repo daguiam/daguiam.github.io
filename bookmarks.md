@@ -66,3 +66,10 @@ Convolutional networks
 # Cheat sheets
 
 <https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5>
+
+
+# Electronics
+
+(https://www.embeddedrelated.com/showarticle/629.php)
+
+(https://www.embeddedrelated.com/showarticle/195.php)
