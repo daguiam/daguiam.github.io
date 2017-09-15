@@ -9,7 +9,7 @@ permalink: /research/
 ---
 
 
-<script src="//rss.bloople.net/?url=http%3A%2F%2Fwww.feed43.com%2F7358332828027066.xml&showtitle=false&striphtml=true&type=js"></script>
+<script src="https://rss.bloople.net/?url=http%3A%2F%2Fwww.feed43.com%2F7358332828027066.xml&showtitle=false&striphtml=true&type=js"></script>
 
 ---
 
