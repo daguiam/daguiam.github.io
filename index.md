@@ -84,30 +84,9 @@ You don't know everything. Mistakes will be made and you will only get so far by
 
 
 
-### Research
-Check out my research
-
-Repository at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/homepage/ist166010/publicacoes)
-
-[ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
-
-[Google Scholar](https://scholar.google.pt/citations?user=GQKhhkMAAAAJ&hl=en)
 
 
 
 
 
 
-
-
-<div id="wrapper" style="  display: flex;">
-  <div id="left" style="float:left">
-       <a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/{{ site.twitter_username }}">Tweets by diogoaguiam</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
-    
-  
-  </div>    
-  <div id="right" style="float:right">
-    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-    <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/diogoaguiam" data-format="inline" data-related="false"></script>
-  </div>
-</div>
