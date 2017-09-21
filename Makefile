@@ -8,4 +8,5 @@ deploy:
 
 
 publish:
+	git commit -a -m "Update"
 	git push
