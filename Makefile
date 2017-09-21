@@ -3,6 +3,9 @@ install:
 	bundle update
 
 
-
 deploy:
 	jekyll serve 
+
+
+publish:
+	git push
