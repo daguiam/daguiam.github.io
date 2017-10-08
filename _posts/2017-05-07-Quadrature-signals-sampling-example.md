@@ -3,6 +3,7 @@ layout: post
 title: Quadrature signal sampling example codes
 categories: code
 tags: quadrature signals
+published: true
 ---
 
 Quadrature signal sampling example codes
@@ -28,7 +29,7 @@ flo= 400; % Frequency of the Local Oscillator
 
 The signal has four frequency components `[-47, -1, +2, +49]` relative to the local oscillator frequency `flo`, meaning `[353, 399, 402, 449]` Hz.
 
-```
+```matlab
 f1=flo+2; % Frequency of the positive signal
 f2=flo-1; % Frequency of the negative signal
 f3 = flo+49;
