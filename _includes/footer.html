@@ -33,6 +33,16 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+          {% if site.researchgate_username %}
+          <li>
+            {% include icon-researchgate.html username=site.researchgate_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
