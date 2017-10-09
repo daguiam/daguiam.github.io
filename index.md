@@ -10,6 +10,7 @@ permalink:
 <div id="wrapper" style="display: flex;">
   <div id="left" style="float:center">
    <img src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200" alt="me">
+
   </div>    
 
 </div>
@@ -20,7 +21,6 @@ permalink:
 **Known as:** Diogo Elói Aguiam
 
 **Spawned:** Portugal, 1990
-
 
 
 ## Quick summary
