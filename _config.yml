@@ -36,6 +36,8 @@ gravatar_image: https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e
 
 google_analytics: UA-11322427-2
 
+twitter:
+  username: diogoaguiam
 
 # Build settings
 markdown: kramdown
@@ -45,6 +47,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
 
 minima:
   date_format: "%Y.%m.%d" #%b %-d, %Y"

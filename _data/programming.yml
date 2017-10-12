@@ -1,0 +1,19 @@
+- language: Python
+  proficiency: 80%
+- language: C
+  proficiency: 70%
+- language: Matlab
+  proficiency: 50%
+  url: https://www.mathworks.com/products/matlab.html
+- language: Arduino
+  proficiency: 30%
+  url: https://www.arduino.cc/
+- language: Microchip PIC
+  proficiency: 40%
+  url: http://www.microchip.com/design-centers/microcontrollers
+- language: Analog Devices ASDP
+  proficiency: 40%
+  url: http://www.analog.com/en/products/processors-dsp/adsp-21xx-processors.html
+- language: Xilinx FPGA
+  proficiency: 18%
+  url: https://www.xilinx.com/products/silicon-devices/fpga.html

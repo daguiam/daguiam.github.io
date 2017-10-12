@@ -7,20 +7,12 @@ permalink:
 
 
 
-<div id="wrapper" style="display: flex;">
-  <div id="left" style="float:center">
-   <img src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200" alt="me">
-
-  </div>    
-
+<div id="wrapper center" style="width=100%">
+   <img class="img-circle" style="float:center" src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=200" alt="me">
+  
 </div>
 
 
-## About me
-
-**Known as:** Diogo Elói Aguiam
-
-**Spawned:** Portugal, 1990
 
 
 ## Quick summary
@@ -69,7 +61,6 @@ You don't know everything. Mistakes will be made and you will only get so far by
  	*Instituto Superior Técnico, Universidade de Lisboa*
 
 ---
-
 
 
 

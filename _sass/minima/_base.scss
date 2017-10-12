@@ -181,8 +181,21 @@ pre {
 
 .center {
   margin: auto;
-  width: 90%;
+  //width: 90%;
   text-align: center; 
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.img-center {
+  display:block;
+   margin:0 auto;
+}
+.img-right {
+  display:block;
+  float:right;
+   margin:0 auto;
 }
 
 /**

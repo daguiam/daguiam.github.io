@@ -1,0 +1,15 @@
+- language: LabVIEW
+  proficiency: 60%
+  url: http://www.ni.com/labview.html
+- language: Altium
+  proficiency: 60%
+  url: http://www.altium.com/
+- language: Cadence
+  proficiency: 25%
+  url: https://www.cadence.com/
+- language: Solidworks
+  proficiency: 50%
+  url: http://www.solidworks.com/
+- language: ADS
+  proficiency: 15%
+  url: http://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=US&lc=eng

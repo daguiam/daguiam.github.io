@@ -4,8 +4,6 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    
- 
         
     {% if page_paths %}
       <nav class="site-nav">
@@ -21,6 +19,7 @@
         </label>
 
         <div class="trigger">
+            <!-- <a class="page-link" href="/">About</a>             -->
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
@@ -33,7 +32,6 @@
 
   </div>
  <div class="wrapper center">
-    
       {% if site.twitter_username %}{% include icon-twitter.html username=site.twitter_username %}{% endif %}
       {% if site.github_username %}{% include icon-github.html username=site.github_username %}{% endif %}
       {% if site.linkedin_username %}{% include icon-linkedin.html username=site.linkedin_username %}{% endif %}
@@ -42,6 +40,5 @@
       {% if site.researchgate_username %}{% include icon-researchgate.html username=site.researchgate_username %}{% endif %}
       {% if site.googlescholar_username %}{% include icon-googlescholar.html username=site.googlescholar_username %}{% endif %}
       {% include icon-email.html username=site.email %}                
-  
 </div>
 </header>

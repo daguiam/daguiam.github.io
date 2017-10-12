@@ -187,21 +187,39 @@
   margin-left: 0;
   list-style: none;
 
-  > li {
-    margin-bottom: $spacing-unit;
-  }
+}
+.post-link-wrapper{
+  
+  display: block;
+}
+
+.left{
+  float:left;
+}
+
+.right{
+  float:right;
 }
 
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  vertical-align: middle;
+  margin-right: $spacing-unit*0.5;
 }
 
 .post-link {
-  display: block;
+  display: inline;
   @include relative-font-size(1.5);
 }
-
+.post-truncated {
+  display: block;
+  margin-left: $spacing-unit ;
+  margin-bottom: $spacing-unit ;
+  //padding: $spacing-unit 0;
+  
+  // margin-bottom: $spacing-unit;
+}
 
 
 /**
@@ -247,4 +265,28 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+
+/**
+* Skill bar
+**/
+.skill-container{
+  //background-color: lightgray;  
+  width: 80%;
+  max-width: 400px;  
+  margin: 5px; 
+  border-radius: 10px;
+  margin-left: $spacing-unit;
+  
+}
+.skill-bar{
+  background-color: $brand-color;  
+  text-align:left;
+  color:$brand-color-invert;
+  font-size:$small-font-size*0.8;
+  //display:inline;
+  padding-left: $spacing-unit*0.5;
+  border-radius: 10px;
+  
 }

@@ -6,10 +6,6 @@ tags: quadrature signals
 published: true
 ---
 
-Quadrature signal sampling example codes
----
-
-
 [Get code](https://github.com/daguiam/fft_quadrature_example)
 
 Why should we care about quadrature signals?
