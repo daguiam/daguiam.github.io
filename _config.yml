@@ -16,11 +16,14 @@
 title: Diogo Aguiam
 author: Diogo Aguiam
 email: diogoaguiam@gmail.com
+author_description: RF signal engineer
 description: > # this means to ignore newlines until "baseurl:"
-  
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:categories/:title
+permalink: /blog/:title
+
 
 google_plus_username: 
 facebook_username:    
@@ -69,3 +72,7 @@ defaults:
     path: "images"
   values:
     image: true
+
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-seo-tag

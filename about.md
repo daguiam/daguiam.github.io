@@ -3,8 +3,10 @@ layout: page
 title: About 
 permalink: /about/
 ---
+<figure class="img-right">
+	<img class="img-circle" src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=150" alt="me">
+</figure>
 
-<img class="img-circle img-right" src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=150" alt="me">
 
 I'm Diogo Elói Aguiam and I am an electronics engineer currently finishing my PhD in [Plasma Science and Engineering](https://www.ipfn.tecnico.ulisboa.pt/education/applause).
 
@@ -25,6 +27,10 @@ You don't know everything. Mistakes will be made and you will only get so far by
 
 ---
 ### Skills
+
+I have worked with several technologies and have more experience with some than others.
+
+
 **Languages**: 
 
 {% include skills.html skills=site.data.languages %}
@@ -38,6 +44,9 @@ You don't know everything. Mistakes will be made and you will only get so far by
 
 **Hardware**: 
 {% include skills.html skills=site.data.hardwareskills %}
+
+**Training**: 
+{% include skills.html skills=site.data.training %}
 
 
 ---

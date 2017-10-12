@@ -1,7 +1,7 @@
 - language: Python
-  proficiency: 80%
+  proficiency: 90%
 - language: C
-  proficiency: 70%
+  proficiency: 75%
 - language: Matlab
   proficiency: 50%
   url: https://www.mathworks.com/products/matlab.html

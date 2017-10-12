@@ -1,13 +1,16 @@
 - language: PCB Design
   proficiency: 80%
   url: 
+- language: Analog Design
+  proficiency: 60%
+  url: 
+- language: 
+  proficiency: 60%
+  url: 
 - language: SMD Soldering
   proficiency: 70%
   url: 
-- language: RF coaxial cable assembly
-  proficiency: 60%
-  url: 
-- language: RF Laboratory 
+- language: RF Laboratory Equipment
   proficiency: 70%
   url:  
 - language: 

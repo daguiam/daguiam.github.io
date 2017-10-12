@@ -6,10 +6,7 @@ tags: quadrature signals
 published: true
 ---
 
-[Get code](https://github.com/daguiam/fft_quadrature_example)
-
 Why should we care about quadrature signals?
-
 Richard Lyons explains this carefully in his very interesting piece on ["Quadrature Signals: Complex but not complicated"](https://www.ieee.li/pdf/essay/quadrature_signals.pdf).
 
 Quadrature signals have a very interesting application in signal processing.
@@ -69,3 +66,5 @@ Signal bandwidth is doubled as we can now distinguish positive and negative side
 ![fft quadrature figure](/images/20170507-fft_quadrature.png)
 
 Useful applications include doppler radar, where we can distinguish direction of movement, and communications, doubling the useful bandwidth in the same medium.
+
+[Get code](https://github.com/daguiam/fft_quadrature_example)
