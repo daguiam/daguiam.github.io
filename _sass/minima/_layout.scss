@@ -272,12 +272,15 @@
 * Skill bar
 **/
 .skill-container{
-  //background-color: lightgray;  
+  background-color: #f8f8f8;  
   width: 80%;
   max-width: 400px;  
   margin: 5px; 
   border-radius: 10px;
   margin-left: $spacing-unit;
+  margin-right: $spacing-unit;
+
+
   
 }
 .skill-bar{
@@ -286,7 +289,12 @@
   color:$brand-color-invert;
   font-size:$small-font-size*0.8;
   //display:inline;
-  padding-left: $spacing-unit*0.5;
   border-radius: 10px;
+  p {
+    display:inline;
+    padding-left: $spacing-unit*0.3;
+    white-space: nowrap;
+    //padding-right: $spacing-unit*0.5;
+  }
   
 }

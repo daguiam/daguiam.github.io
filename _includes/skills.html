@@ -1,11 +1,13 @@
 {% for skill in include.skills %}
+{% if skill.language %} 
 
 <div class="skill-container">
 {% if skill.url %} 
 <!-- <a href="{{ skill.url }}"><div class="skill-bar" style="width:{{ skill.proficiency }}"  >{{ skill.language }}</div></a> nclick="location.href='{{ skill.url }}';" -->
-<div class="skill-bar" style="style:pointer;width:{{ skill.proficiency }};cursor:pointer;" {% if skill.url %} onclick="window.open('{{ skill.url }}','new_window');" {% endif %}  >{{ skill.language }}</div>
+<div class="skill-bar" style="style:pointer;width:{{ skill.proficiency }};cursor:pointer;" {% if skill.url %} onclick="window.open('{{ skill.url }}','new_window');" {% endif %}  ><p>{{ skill.language }}</p></div>
 {% else %}
-<div class="skill-bar" style="width:{{ skill.proficiency }}" >{{ skill.language }}</div>
+<div class="skill-bar" style="width:{{ skill.proficiency }}" ><p>{{ skill.language }}</p></div>
 {% endif %}
 </div>
+{% endif %}
 {% endfor %}
