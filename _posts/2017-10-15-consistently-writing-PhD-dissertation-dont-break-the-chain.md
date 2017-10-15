@@ -39,12 +39,11 @@ I didn't set up a calendar.
 Instead, I set my dissertation project up on [GitHub](https://github.com/).
 
 GitHub is a platform that hosts most of the world's open source repositories.
-
-However, any text based project can take advantage of the awesome features git version control has to offer!
+Any text based project can take advantage of the awesome features git version control has to offer!
 The online writing editor [Overleaf *(referral link)*](https://www.overleaf.com/signup?ref=28bea65b2da7) also provides [git](https://www.overleaf.com/help/233-how-do-i-connect-an-overleaf-project-with-a-repo-on-github-gitlab-or-bitbucket) revision history!
 
 
-But best of all, GitHub keeps track of my activity!
+Best of all, GitHub keeps track of my activity!
 Just look at my beautiful chain:
 
 ![GitHub contribution activity](/images/github-contribution-activity-20171015.png)
