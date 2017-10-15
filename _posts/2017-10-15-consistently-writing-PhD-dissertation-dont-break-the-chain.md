@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consistently writing your PhD dissertion
+title: Consistently writing your PhD dissertation
 categories: writing phd
 tags: #phdchat #phdlife #AcWri #phdadvice #phdforum
 ---
