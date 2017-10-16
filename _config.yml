@@ -54,6 +54,7 @@ exclude:
 
 minima:
   date_format: "%Y.%m.%d" #%b %-d, %Y"
+  datetime_format: "%F %R"
 
 show_drafts: false
 
