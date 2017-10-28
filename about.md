@@ -5,6 +5,7 @@ permalink: /about/
 ---
 <figure class="img-right">
 	<img class="img-circle" src="https://www.gravatar.com/avatar/6e70305ca9ccc6f0b71b54eb3180a48e?s=150" alt="me">
+	<figcaption class="center"><b>{{ site.author_description}}</b></figcaption>
 </figure>
 
 
@@ -22,7 +23,7 @@ Sometimes at [Max-Planck-Institut für Plasmaphysik](https://www.ipp.mpg.de/) in
 I'm an advocate of [open science](https://en.wikipedia.org/wiki/Open_science).
 You don't know everything. Mistakes will be made and you will only get so far by shutting yourself off from other people. Share your data, share your methods, share your codes.
 
-
+[My CV](https://github.com/daguiam/cv-daguiam/raw/master/cv-daguiam.pdf)
 
 
 ---
