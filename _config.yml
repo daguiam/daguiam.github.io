@@ -77,3 +77,4 @@ defaults:
 plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
