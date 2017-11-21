@@ -73,3 +73,12 @@ Convolutional networks
 <https://www.embeddedrelated.com/showarticle/629.php>
 
 <https://www.embeddedrelated.com/showarticle/195.php>
+
+
+Analog Engineer Pocket Handbook
+<http://www.ti.com/amplifier-circuit/op-amps/precision/support-training.html#pocketref>
+
+
+# Writing Academic Papers
+
+<http://www.phrasebank.manchester.ac.uk/>
