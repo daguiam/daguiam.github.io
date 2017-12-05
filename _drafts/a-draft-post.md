@@ -1,6 +1,10 @@
 ---
-title: 
+layout: post
+title: Trying out plotly
+categories:
+tags:
 ---
 
-# Template title
 
+Trying out plotly
+---

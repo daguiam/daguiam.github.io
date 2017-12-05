@@ -13,6 +13,21 @@ permalink: /research/
 [Mendeley](https://www.mendeley.com/profiles/diogo-aguiam/)
 
 
+<ul>
+{% for work in site.data.orcid.activities-summary.works.group  %}
+    {% for summary in work.work-summary  %}
+    <!-- <li>Title: {{ summary | jsonify }}</li> -->
+        {% for id in summary.external-ids.external-id  %}
+            {% if id.external-id-type == "doi" %}
+                <li>{{ summary.publication-date.year.value  }}{% if summary.publication-date.month.value %}.{{ summary.publication-date.month.value  }}{% endif %}
+                <a href="https://doi.org/{{ id.external-id-value  }}">{{ summary.title.title.value  }}</a></li>
+            {% else %}
+                <!-- <li>asda{{ summary.title.title.value  }}</li> -->
+            {% endif %}
+    {% endfor %} 
+  {% endfor %} 
+{% endfor %}   
+</ul>
 
 <!-- 
 <script src="https://rss.bloople.net/?url=http%3A%2F%2Fwww.feed43.com%2F7358332828027066.xml&showtitle=false&striphtml=true&type=js"></script> -->
