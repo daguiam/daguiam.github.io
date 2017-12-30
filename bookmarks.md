@@ -30,6 +30,10 @@ permalink: /bookmarks
 
 <https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137>
 
+## Python OSS
+
+<https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md>
+
 # Plasma Fusion Research
 
 
@@ -40,6 +44,7 @@ permalink: /bookmarks
 <https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/> Python logging
 
 <https://blog.ionelmc.ro/2014/05/25/python-packaging/> Python packaging
+
 
 
 # Software tools
